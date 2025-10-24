@@ -1,5 +1,5 @@
 # Bank-Analytics-
-1.Project Title
+1.Project Title:
   Bank Analytics and Credit and Debit
   
  2.Project Objective
